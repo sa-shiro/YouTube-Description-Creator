@@ -2,7 +2,7 @@
 A little Tool to create a YT description for osu! faster
 
 Download:
-https://github.com/raeyon/YouTube-Description-Creator/releases
+https://github.com/snygglove/YouTube-Description-Creator/releases
 
 Screenshot:
 ===
