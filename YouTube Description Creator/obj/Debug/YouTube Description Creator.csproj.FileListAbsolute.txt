@@ -1,0 +1,25 @@
+C:\Users\Kowan\OneDrive\Dokumente\Visual Studio 2017\Projects\YouTube Description Creator\YouTube Description Creator\bin\Debug\YouTube Description Creator.exe.config
+C:\Users\Kowan\OneDrive\Dokumente\Visual Studio 2017\Projects\YouTube Description Creator\YouTube Description Creator\bin\Debug\YouTube Description Creator.exe
+C:\Users\Kowan\OneDrive\Dokumente\Visual Studio 2017\Projects\YouTube Description Creator\YouTube Description Creator\bin\Debug\YouTube Description Creator.pdb
+C:\Users\Kowan\OneDrive\Dokumente\Visual Studio 2017\Projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.csprojResolveAssemblyReference.cache
+C:\Users\Kowan\OneDrive\Dokumente\Visual Studio 2017\Projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube_Description_Creator.Form1.resources
+C:\Users\Kowan\OneDrive\Dokumente\Visual Studio 2017\Projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube_Description_Creator.Properties.Resources.resources
+C:\Users\Kowan\OneDrive\Dokumente\Visual Studio 2017\Projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.csproj.GenerateResource.cache
+C:\Users\Kowan\OneDrive\Dokumente\Visual Studio 2017\Projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.csproj.CoreCompileInputs.cache
+C:\Users\Kowan\OneDrive\Dokumente\Visual Studio 2017\Projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.exe
+C:\Users\Kowan\OneDrive\Dokumente\Visual Studio 2017\Projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.pdb
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\bin\Debug\YouTube Description Creator.exe.config
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\bin\Debug\YouTube Description Creator.exe
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\bin\Debug\YouTube Description Creator.pdb
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.csprojResolveAssemblyReference.cache
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube_Description_Creator.Properties.Resources.resources
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.csproj.GenerateResource.cache
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.csproj.CoreCompileInputs.cache
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.exe
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.pdb
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube_Description_Creator.YTDC.resources
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\bin\Debug\YouTube Description Creator.exe.manifest
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\bin\Debug\YouTube Description Creator.application
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.TrustInfo.xml
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.exe.manifest
+D:\Bibliothek\Microsoft Visual Studio 2017\projects\YouTube Description Creator\YouTube Description Creator\obj\Debug\YouTube Description Creator.application
