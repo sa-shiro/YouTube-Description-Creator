@@ -3,7 +3,7 @@
   <asmv1:assemblyIdentity name="YouTube Description Creator.exe" version="1.1.2.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="YouTube Description Creator" version="1.0.0.0" publicKeyToken="EF31B8B513CEAA21" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="YouTube Description Creator" version="1.1.2.0" publicKeyToken="EF31B8B513CEAA21" language="neutral" processorArchitecture="msil" />
     <commandLine file="YouTube Description Creator.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="YouTube Description Creator.exe" size="17376">
-      <assemblyIdentity name="YouTube Description Creator" version="1.0.0.0" publicKeyToken="EF31B8B513CEAA21" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="YouTube Description Creator.exe" size="17888">
+      <assemblyIdentity name="YouTube Description Creator" version="1.1.2.0" publicKeyToken="EF31B8B513CEAA21" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>c7xgyrSQw7q3KiAVkcG6UaEFQGpo66vBvCIB5d8kxdk=</dsig:DigestValue>
+        <dsig:DigestValue>/tFmpL83kM+mDm0DJfmgd8LtE4K/IO2aKS/L9M2h83c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

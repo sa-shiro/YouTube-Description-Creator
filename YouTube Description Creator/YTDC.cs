@@ -82,7 +82,17 @@ namespace YouTube_Description_Creator
         }
         private void SaveToFileToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            File.WriteAllText(TitleBox.Text + ".txt", SourceBox.Text);
+            SaveFileDialog save = new SaveFileDialog
+            {
+                FileName = "osu!" + SongBox.Text + ".txt",
+                Filter = "Text File | *.txt"
+            };
+            if (save.ShowDialog() == DialogResult.OK)
+            {
+                StreamWriter writer = new StreamWriter(save.OpenFile());
+                writer.WriteLine(SourceBox.Text.ToString());
+                writer.Dispose();
+            }
         }
         private void ResetSettingsToolStripMenuItem_Click(object sender, EventArgs e)
         {

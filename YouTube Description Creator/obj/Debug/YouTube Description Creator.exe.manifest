@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="YouTube Description Creator.exe" size="17888">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="YouTube Description Creator.exe" size="18400">
       <assemblyIdentity name="YouTube Description Creator" version="1.0.0.0" publicKeyToken="EF31B8B513CEAA21" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dJwzWCMvgvrlkTKemiQxSm7r3uYkKfJk0kdZO1+be9U=</dsig:DigestValue>
+        <dsig:DigestValue>QIVk6AW98jxbvOajPIUVzJD7Szgn598p3GIGMSv2oxg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
